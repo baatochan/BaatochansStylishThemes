@@ -1,0 +1,10 @@
+@-moz-document url-prefix("https://ankietyzacja.pwr.wroc.pl/") {
+input {
+    width: 50px;
+    height: 50px;
+}
+
+label {
+    font-size: 20px !important
+}
+}
