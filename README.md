@@ -1,5 +1,5 @@
-# Baatochan's Stylish Themes
-Few useful for me Stylish themes.
+# Stylish Themes
+Few useful (for me) Stylish themes.
 
 Author: Bartosz Rodziewicz
 
