@@ -1,133 +1,168 @@
 #wpHeader {
-display: none !important;
+	display: none !important;
 }
+
 .naviStan {
-display: none !important;
+	display: none !important;
 }
+
 #wpRight {
-display: none !important;
+	display: none !important;
 }
+
 .insideLeft {
-display: none !important;
+	display: none !important;
 }
+
 #stgHeader {
-display: none !important;
+	display: none !important;
 }
+
 .tagi {
-display: none !important;
+	display: none !important;
 }
+
 .stampArt {
-display: none !important;
+	display: none !important;
 }
+
 .bx11 {
-display: none !important;
+	display: none !important;
 }
+
 #stgCol470 {
-display: none !important;
+	display: none !important;
 }
+
 #stgOpinie {
-display: none !important;
+	display: none !important;
 }
+
 #stgFooter {
-display: none !important;
+	display: none !important;
 }
+
 .sMainBg {
-background: white !important;
+	background: white !important;
 }
+
 .headTitle {
-display: none !important;
+	display: none !important;
 }
+
 .fb_edge_widget_with_comment {
-display: none !important;
+	display: none !important;
 }
+
 .insideRight {
-width: 100% !important;
+	width: 100% !important;
 }
+
 .fs {
-display: none !important;
+	display: none !important;
 }
+
 .tags {
-display: none !important;
+	display: none !important;
 }
+
 #wpCenter {
-width: 100% !important;
-padding-left: 0px !important;
+	width: 100% !important;
+	padding-left: 0px !important;
 }
+
 body {
-background: white !important;
-text-align: justify !important;
-font-size: 16px !important;
-font-family: Georgia, serif !important;
+	background: white !important;
+	text-align: justify !important;
+	font-size: 16px !important;
+	font-family: Georgia, serif !important;
 }
+
 .singleArticleSpan {
-background: white !important;
-text-align: justify !important;
-font-size: 16px !important;
-font-family: Georgia, serif !important;
-line-height: 1.6em !important;
+	background: white !important;
+	text-align: justify !important;
+	font-size: 16px !important;
+	font-family: Georgia, serif !important;
+	line-height: 1.6em !important;
 }
+
 #intertext1 {
-text-align: justify !important;
-font-size: 16px !important;
-font-family: Georgia, serif !important;
+	text-align: justify !important;
+	font-size: 16px !important;
+	font-family: Georgia, serif !important;
 }
+
 h1 {
-text-align: center !important;
-margin-bottom: 15px !important;
-font-size: 30px !important;
-font-family: Georgia, serif !important;
-font-weight: normal !important;
+	text-align: center !important;
+	margin-bottom: 15px !important;
+	font-size: 30px !important;
+	font-family: Georgia, serif !important;
+	font-weight: normal !important;
 }
+
 #wpMain {
-margin-left: auto !important;
-margin-right: auto !important;
-width: 680px !important;
-background: white !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	width: 680px !important;
+	background: white !important;
 }
+
 .seemore {
-display: none !important;
+	display: none !important;
 }
+
 .photo {
-margin: 10px auto !important;
+	margin: 10px auto !important;
 }
+
 #fb_widget {
-display: none !important;
+	display: none !important;
 }
+
 .shortTxt {
-width: 100% !important;
+	width: 100% !important;
 }
+
 .stampGal {
-display: none !important;
+	display: none !important;
 }
+
 .shortTxt {
-background: white !important;
-text-align: justify !important;
-font-size: 16px !important;
-font-family: Georgia, serif !important;
-line-height: 1.6em !important;
+	background: white !important;
+	text-align: justify !important;
+	font-size: 16px !important;
+	font-family: Georgia, serif !important;
+	line-height: 1.6em !important;
 }
+
 .shortTxt p {
-background: white !important;
-text-align: justify !important;
-font-size: 16px !important;
-font-family: Georgia, serif !important;
-line-height: 1.6em !important;
+	background: white !important;
+	text-align: justify !important;
+	font-size: 16px !important;
+	font-family: Georgia, serif !important;
+	line-height: 1.6em !important;
 }
+
 .media {
-width: 100% !important;
+	width: 100% !important;
 }
+
 #ecwidget-trigger {
-display: none !important;
+	display: none !important;
 }
+
 #wpAdvTop {
-display: none !important;
+	display: none !important;
 }
+
 #fbActivityBar {
-display: none !important;
+	display: none !important;
 }
+
 .fl {
-display: none !important;
+	display: none !important;
 }
+
 #adKontekst_0 {
-display: none !important;
+	display: none !important;
 }
